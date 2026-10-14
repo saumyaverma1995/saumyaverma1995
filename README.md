@@ -18,13 +18,10 @@ I specialize in **React, TypeScript, frontend architecture, and microfrontends**
   
 ### Professional Projects & Engineering Impact
 
-**Walamrt, 2022-Present**
 - **Financial Review Dashboard:** Designed and delivered a full-stack dashboard using React, Java, Spring Boot, GraphQL, and SQL in approximately 1 month, from development to production. Subsequently optimized grouping queries from ~50 seconds to 8–10 seconds (5–6× faster).
 - **Self-Service Platform:** Built a tenant onboarding application from scratch using React and Spring Boot, integrating SSO and GitHub APIs to reduce manual onboarding effort.
-- **Production Reliability:** Collaborated with teams to investigate and resolve 15+ production incidents, contributing to platform stability which resulted in reduction of monthly incident rate from 9.3 to 2.5 (~73% reduction).
+- **Production Reliability:** Collaborated with teams to investigate and resolve 15+ production incidents, contributing to platform stability which resulted in ~73% reduction of incidents.
 - **Engineering Contributions:** Owned features end-to-end, contributed 253 merged PRs across 25 repositories, and executed 20+ production deployments during March 2025–September 2026.
-
-**Paytm, 2018-2022**
 - **Field Service Management Platform:** Built a field-service application from scratch using React and Redux, integrating interactive maps, clustering, zone visualization, and location-based employee attendance with selfie verification.
 - **Motor Insurance Platform:** Developed insurance workflows using Vue.js, Vuex, and TypeScript. Collaborated with product and backend teams on feature requirements, UI design, and API contracts.
   
