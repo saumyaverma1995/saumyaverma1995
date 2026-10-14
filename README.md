@@ -4,25 +4,27 @@
 
 I specialize in **React, TypeScript, frontend architecture, and microfrontends**, with experience across full-stack development using Java, Spring Boot, and GraphQL.
 
-### 👩‍💻 A little about me
+### A little about me
 
 - **Education:**
-  High School: Cambridge school, Noida
-  Graduation: G.L Bajaj Institute of Technology and Management, Greater Noida (AKTU), (B.Tech, Computer Science)
+  - Graduation: G.L Bajaj Institute of Technology and Management, Greater Noida (AKTU), (B.Tech, Computer Science)
 - **Currently focused on:** Frontend architecture, performance optimization, and building my public engineering portfolio.
-- **Currently learning:** Backend system design, Java, Spring Boot, and distributed systems.
+- **Currently exploring:** Backend system design, Java, Spring Boot, and distributed systems.
 - **How to reach me:**
-  LinkedIn: https://www.linkedin.com/in/saumya-verma9/
-  Email: saumya.verma9@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/saumya-verma9/
+  - Email: saumya.verma9@gmail.com
 - **Hobbies:** Outside of coding, I enjoy badminton, strength training and reading fiction.
 
   
-### Projects I have worked on
+### Professional Projects & Engineering Impact
 
+**Walamrt, 2022-Present**
 - **Financial Review Dashboard:** Designed and delivered a full-stack dashboard using React, Java, Spring Boot, GraphQL, and SQL in approximately 1 month, from development to production. Subsequently optimized grouping queries from ~50 seconds to 8–10 seconds (5–6× faster).
-- **Self-Service Platform:** Built a tenant onboarding application from scratch using React and Spring Boot, integrating SSO and GitHub APIs to eliminate manual onboarding.
-- **Production Reliability:** Collaborated with cross-functional teams to investigate and resolve 15+ production incidents, contributing to platform stability which resulted in reduction of monthly incident rate from 9.3 to 2.5 (~73% reduction).
+- **Self-Service Platform:** Built a tenant onboarding application from scratch using React and Spring Boot, integrating SSO and GitHub APIs to reduce manual onboarding effort.
+- **Production Reliability:** Collaborated with teams to investigate and resolve 15+ production incidents, contributing to platform stability which resulted in reduction of monthly incident rate from 9.3 to 2.5 (~73% reduction).
 - **Engineering Contributions:** Owned features end-to-end, contributed 253 merged PRs across 25 repositories, and executed 20+ production deployments during March 2025–September 2026.
+
+**Paytm, 2018-2022**
 - **Field Service Management Platform:** Built a field-service application from scratch using React and Redux, integrating interactive maps, clustering, zone visualization, and location-based employee attendance with selfie verification.
 - **Motor Insurance Platform:** Developed insurance workflows using Vue.js, Vuex, and TypeScript. Collaborated with product and backend teams on feature requirements, UI design, and API contracts.
   
