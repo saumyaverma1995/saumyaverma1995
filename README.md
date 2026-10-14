@@ -1,17 +1,8 @@
 # Hi, I'm Saumya! 👋
 
-💻 Software Engineer with over 8 years of experience building scalable web/mobile applications at fintech, e-commerce organisations.
+💻 Software Engineer with over 8 years of experience building scalable web/mobile applications at fintech and e-commerce organisations.
 
 I specialize in **React, TypeScript, frontend architecture, and microfrontends**, with experience across full-stack development using Java, Spring Boot, and GraphQL.
-
-### Projects I have worked on
-
-- **Financial Review Dashboard:** Designed and delivered a full-stack dashboard using React, Java, Spring Boot, GraphQL, and SQL in approximately 1 month, from development to production. Subsequently optimized grouping queries from ~50 seconds to 8–10 seconds (5–6× faster).
-- **Self-Service Platform:** Built a tenant onboarding application from scratch using React and Spring Boot, integrating SSO and GitHub APIs to eliminate manual onboarding.
-- **Production Reliability:** Collaborated with cross-functional teams to investigate and resolve 15+ production incidents, contributing to platform stability which resulted in reduction of monthly incident rate from 9.3 to 2.5 (~73% reduction).
-- **Engineering Contributions:** Owned features end-to-end, contributed 253 merged PRs across 25 repositories, and executed 20+ production deployments during March 2025–September 2026.
-- **Field Service Management Platform:** Built a field-service application from scratch using React and Redux, integrating interactive maps, clustering, zone visualization, and location-based employee attendance with selfie verification.
-- **Motor Insurance Platform:** Developed insurance workflows using Vue.js, Vuex, and TypeScript. Collaborated with product and backend teams on feature requirements, UI design, and API contracts.
 
 ### 👩‍💻 A little about me
 
@@ -22,6 +13,17 @@ I specialize in **React, TypeScript, frontend architecture, and microfrontends**
 - **Currently learning:** Backend system design, Java, Spring Boot, and distributed systems.
 - **How to reach me:** https://www.linkedin.com/in/saumya-verma9/
 - **Hobbies:** Outside of coding, I enjoy badminton, strength training and reading fiction.
+
+  
+### Projects I have worked on
+
+- **Financial Review Dashboard:** Designed and delivered a full-stack dashboard using React, Java, Spring Boot, GraphQL, and SQL in approximately 1 month, from development to production. Subsequently optimized grouping queries from ~50 seconds to 8–10 seconds (5–6× faster).
+- **Self-Service Platform:** Built a tenant onboarding application from scratch using React and Spring Boot, integrating SSO and GitHub APIs to eliminate manual onboarding.
+- **Production Reliability:** Collaborated with cross-functional teams to investigate and resolve 15+ production incidents, contributing to platform stability which resulted in reduction of monthly incident rate from 9.3 to 2.5 (~73% reduction).
+- **Engineering Contributions:** Owned features end-to-end, contributed 253 merged PRs across 25 repositories, and executed 20+ production deployments during March 2025–September 2026.
+- **Field Service Management Platform:** Built a field-service application from scratch using React and Redux, integrating interactive maps, clustering, zone visualization, and location-based employee attendance with selfie verification.
+- **Motor Insurance Platform:** Developed insurance workflows using Vue.js, Vuex, and TypeScript. Collaborated with product and backend teams on feature requirements, UI design, and API contracts.
+  
 
 ### Tech Stack
 
