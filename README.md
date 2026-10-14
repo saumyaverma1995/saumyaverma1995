@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Saumya! 👋
 
-<!--
-**saumyaverma1995/saumyaverma1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer at **Walmart Global Tech** with 8 years of experience building scalable web applications.
 
-Here are some ideas to get you started:
+I specialize in **React, TypeScript, frontend architecture, and microfrontends**, with experience across full-stack development using Java, Spring Boot, and GraphQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building maintainable applications, improving performance, and solving complex engineering problems.
+
+### 👩‍💻 A little about me
+
+- 🔭 **Currently focused on:** Frontend architecture, performance optimization, and building my public engineering portfolio.
+- 🌱 **Currently learning:** Backend, Frontend system design, Java, Spring Boot, and distributed systems.
+- 🤝 **Interested in:** Open-source projects involving React, TypeScript, and developer tooling.
+- 💬 **Ask me about:** React, TypeScript, Redux, Microfrontends, Module Federation, GraphQL, and Storybook.
+- 📫 **How to reach me:** https://www.linkedin.com/in/saumya-verma9/
+- ⚡ **Fun fact:** Outside of coding, I enjoy badminton, strength training and reading fiction.
+
+### 🛠️ Tech Stack
+
+**Frontend:** JavaScript · TypeScript · React · Redux · Next.js · Vue.js · Microfrontends · Module Federation
+
+**Backend:** Java · Spring Boot · GraphQL · SQL
+
+**Tools & Testing:** Git · Jest · Storybook · AG Grid · CI/CD
+
+### 🚀 What you'll find here
+
+Projects and experiments exploring scalable frontend applications, reusable components, application architecture, and software engineering best practices.
