@@ -11,7 +11,9 @@ I specialize in **React, TypeScript, frontend architecture, and microfrontends**
   Graduation: G.L Bajaj Institute of Technology and Management, Greater Noida (AKTU), (B.Tech, Computer Science)
 - **Currently focused on:** Frontend architecture, performance optimization, and building my public engineering portfolio.
 - **Currently learning:** Backend system design, Java, Spring Boot, and distributed systems.
-- **How to reach me:** https://www.linkedin.com/in/saumya-verma9/
+- **How to reach me:**
+  LinkedIn: https://www.linkedin.com/in/saumya-verma9/
+  Email: saumya.verma9@gmail.com
 - **Hobbies:** Outside of coding, I enjoy badminton, strength training and reading fiction.
 
   
